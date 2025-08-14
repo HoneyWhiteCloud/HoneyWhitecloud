@@ -11,21 +11,21 @@
 <p align="center">
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=gzzzxx&show_icons=true&hide_border=true&line_height=24&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=HoneyWhiteCloud&show_icons=true&hide_border=true&line_height=24&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=gzzzxx&show_icons=true&hide_border=true&line_height=24" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HoneyWhiteCloud&show_icons=true&hide_border=true&line_height=24" />
 </picture>
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzzxx&layout=compact&hide_border=true&langs_count=8&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyWhiteCloud&layout=compact&hide_border=true&langs_count=8&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzzzxx&layout=compact&hide_border=true&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HoneyWhiteCloud&layout=compact&hide_border=true&langs_count=8" />
 </picture>
 <br/>
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=gzzzxx&theme=github-compact&hide_border=true&area=true" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=HoneyWhiteCloud&theme=github-compact&hide_border=true&area=true" />
 <br/>
 <!-- https://github.com/LelouchFR/skill-icons -->
 <img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=java,html,css,js,jquery,nodejs,ts,md,vue,vite,py,docker,linux,nginx">
@@ -33,9 +33,9 @@
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
-<a href="https://github.com/HoneyWhiteCloud"><img src="https://img.shields.io/badge/GitHub-gzzzxx-blue?logo=github" /></a>
+<a href="https://github.com/HoneyWhiteCloud"><img src="https://img.shields.io/badge/GitHub-HoneyWhiteCloud-blue?logo=github" /></a>
 <a href="https://www.honeywhite.cloud"><img src="https://img.shields.io/badge/Blog-blog.gzzz.pro-pink?logo=Blogger&logoColor=87cefa" /></a>
-<a href="https://github.com/HoneyWhiteCloud"><img src="https://komarev.com/ghpvc/?username=gzzzxx&abbreviated=true&color=yellow" ></a>
+<a href="https://github.com/HoneyWhiteCloud"><img src="https://komarev.com/ghpvc/?username=HoneyWhiteCloud&abbreviated=true&color=yellow" ></a>
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
