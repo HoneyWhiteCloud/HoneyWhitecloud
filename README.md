@@ -34,7 +34,6 @@
 <!-- https://github.com/badges/shields -->
 <p align="center">
 <a href="https://github.com/HoneyWhiteCloud"><img src="https://img.shields.io/badge/GitHub-HoneyWhiteCloud-blue?logo=github" /></a>
-<a href="https://www.honeywhite.cloud"><img src="https://img.shields.io/badge/Blog-blog.gzzz.pro-pink?logo=Blogger&logoColor=87cefa" /></a>
 <a href="https://github.com/HoneyWhiteCloud"><img src="https://komarev.com/ghpvc/?username=HoneyWhiteCloud&abbreviated=true&color=yellow" ></a>
 </p>
 
